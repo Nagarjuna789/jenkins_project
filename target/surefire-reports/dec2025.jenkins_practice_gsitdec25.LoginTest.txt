@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: dec2025.jenkins_practice_gsitdec25.LoginTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.321 s -- in dec2025.jenkins_practice_gsitdec25.LoginTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.300 s -- in dec2025.jenkins_practice_gsitdec25.LoginTest
